@@ -2,6 +2,14 @@
     margin: 20px;
 }
 
-.btn-validar{
+.mar-top{
     margin-top: 20px;
+}
+
+.show{
+    display: block;
+}
+
+.hide{
+    display: none;
 }
